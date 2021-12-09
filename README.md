@@ -10,6 +10,8 @@ Before running the code, ubuntu (above or equal to 20.04) and python (>= 3.9) is
 
 You should install pytorch and torchvision by yourself. (pytorch >= 1.9.0)
 
+Opencv-python is required. (opencv >= 4.5.2)
+
 This code has been tested on a computer with 2 Nvidia RTX 3090 GPUs.
 
 ## Training
